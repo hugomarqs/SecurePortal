@@ -227,7 +227,7 @@ Architecture components:
 
 ---
 
-## 🎤 10. Pitch (For Interview Use)
+## 🎤 10. Pitch 
 
 > “This project allowed me to apply practical risk governance processes using ISO 27005, evaluate web application risks, build a scoring model, develop a risk matrix, and design an architectural mockup. I defined mitigation controls aligned with NIST CSF, CIS Controls, and ISO 27001 and built a small roadmap simulating real-world GRC project management.”
 
