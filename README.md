@@ -249,6 +249,8 @@ Cybersecurity & IT Risk Enthusiast
 
 ## 🗂️ Files in This Repository  
 
+- 📄 **SecurePortal.pdf** – [Abrir documento](SecurePortal.pdf)
+- 🖼️ **architecture_mockup.png** – [Ver imagem](architecture_mockup.png)
 ---
 
 ## ✔ Conclusion 
